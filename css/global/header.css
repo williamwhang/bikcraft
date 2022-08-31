@@ -26,10 +26,7 @@
     display: inline-block;
     /* bom para area de click 16 é pra cima e baixo */
     padding: 16px 0;
-    font-size: 18px;
     position: relative;
-    font-family: 'Poppins';
-    font-weight: 400;
 }
 
 
